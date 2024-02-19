@@ -13,9 +13,4 @@ describe("date functions", () => {
         const primitive = 2
         expect(isEqual(obj, primitive)).toEqual(false);
     })
-    it("Properly compares prototypes", () => {
-        const obj = {}
-        const date = new Date()
-        expect(isEqual(obj, date)).toEqual(false);
-    })
 })

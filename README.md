@@ -1,3 +1,5 @@
+ARCHIVED. Moved to become bart of the ![decaf-ts](github.com/decaf-ts) project at ![ts-workspace](github.com/decaf-ts/ts-workspace)
+
 [![Banner](./assets/banner.png)](https://www.glass-h2020.eu/)
 
 ![Licence](https://img.shields.io/github/license/TiagoVenceslau/decorator-validation.svg)
